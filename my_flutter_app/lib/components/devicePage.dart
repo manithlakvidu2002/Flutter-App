@@ -19,10 +19,10 @@ class _Devicepage extends State<Devicepage> {
           Padding(
             padding: const EdgeInsets.only(
               top: 70.0,
-              left:
-                  20.0, // Add left padding to align with the container's padding
-              right:
-                  20.0, // Add right padding to align with the container's padding
+              //left:
+              //  0.0, // Add left padding to align with the container's padding
+              //right:
+              //  0.0, // Add right padding to align with the container's padding
             ),
             child: Row(
               children: [

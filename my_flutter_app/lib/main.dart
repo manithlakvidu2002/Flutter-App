@@ -3,6 +3,6 @@ import 'pages/secondPage.dart';
 import 'pages/thirdPage.dart';
 
 void main() {
-  //runApp(secondpage());
-  runApp(thirdpage());
+  runApp(secondpage());
+  //runApp(thirdpage());
 }

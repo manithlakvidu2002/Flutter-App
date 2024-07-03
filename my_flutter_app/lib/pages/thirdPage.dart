@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:my_flutter_app/components/devicePage.dart';
-import 'package:my_flutter_app/components/switch_option.dart';
 
 class thirdpage extends StatelessWidget {
   @override
